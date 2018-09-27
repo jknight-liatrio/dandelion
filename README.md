@@ -10,4 +10,3 @@ See the documentation here : [http://dandelion.github.io/components/core](http:/
 =
 The [Dandelion team](http://dandelion.github.io/team/).
 
-Test!!! I'm updating things!
